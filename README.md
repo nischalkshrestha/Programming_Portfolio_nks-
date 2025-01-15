@@ -1,2 +1,1 @@
-Programming Portfolio 
-Nischal Kumar Shrestha
+Programming Portfolio of Nischal Kumar Shrestha
