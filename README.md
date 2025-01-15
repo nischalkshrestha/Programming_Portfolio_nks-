@@ -1,2 +1,2 @@
-Week 2,3,4 Programming Portfolio 
+Programming Portfolio 
 Nischal Kumar Shrestha
